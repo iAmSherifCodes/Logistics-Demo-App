@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd279ca7-3e4e-4cba-b5bf-b077cc11d236" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheetahApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CheetahApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Testing/dietelExercises/src/ArraySnacks/ArrayManipulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Testing/dietelExercises/src/chapter4" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="true" />
@@ -175,7 +175,7 @@
       <workItem from="1681791147161" duration="8997000" />
       <workItem from="1682146631169" duration="51000" />
       <workItem from="1682440235662" duration="8876000" />
-      <workItem from="1682584678019" duration="545000" />
+      <workItem from="1682584678019" duration="917000" />
     </task>
     <servers />
   </component>

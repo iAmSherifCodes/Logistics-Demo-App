@@ -1,11 +1,15 @@
 import controller.userController;
 import dto.requests.RegisterUserRequest;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import javax.swing.*;
 
+@SpringBootApplication
 public class Main {
     private static final userController userController = new userController();
     public static void main(String... args) {
+        SpringApplication.run(Main.class, args);
         String mainMenu = """
                 Hi,
                 What do you want to do?
