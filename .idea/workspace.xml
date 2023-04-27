@@ -24,11 +24,10 @@
       <change afterPath="$PROJECT_DIR$/../../untitled1/untitled1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Testing/dietelExercises/src/ArraySnacks/ArrayManipulation.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Testing/dietelExercises/src/chapter4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/data/repositories/EventRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/sourceCodes/data/repositories/EventRepositoryImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/data/repositories/PackageRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/sourceCodes/data/repositories/PackageRepositoryImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/data/repositories/UserRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/sourceCodes/data/repositories/UserRepositoryImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/service/UserServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/sourceCodes/service/UserServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheetahApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CheetahApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="true" />
@@ -196,7 +195,7 @@
       <workItem from="1682146631169" duration="51000" />
       <workItem from="1682440235662" duration="8876000" />
       <workItem from="1682584678019" duration="1607000" />
-      <workItem from="1682586393664" duration="7888000" />
+      <workItem from="1682586393664" duration="11415000" />
     </task>
     <servers />
   </component>

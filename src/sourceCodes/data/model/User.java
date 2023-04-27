@@ -1,70 +1,21 @@
 package sourceCodes.data.model;
 
+import lombok.*;
+
+
+//@Data  if you don't want to have getters and setters for all the fields
+@Data
+@AllArgsConstructor // For all args constructor
+//@NoArgsConstructor // For No Args constructor
+@RequiredArgsConstructor // For required args constructor
 public class User {
+//    @Getter if you want to have just getter for this field
     private String firstName;
+//    @Getter @Setter if you want to have getter and setter for this particular field
     private String lastName;
     private String address;
     private String phoneNumber;
     private String email;
     private int id;
-    public int getId() {
-        return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
-    }
-
-    public String getAddress() {
-        return address;
-    }
-
-    public String getFirstName() {
-        return this.firstName;
-    }
-
-    public void setFirstName(String firstName) {
-        this.firstName = firstName;
-    }
-
-    public String getLastName() {
-        return lastName;
-    }
-
-    public void setLastName(String lastName) {
-        this.lastName = lastName;
-    }
-
-    public void setAddress(String address) {
-        this.address = address;
-    }
-    public String getPhoneNumber() {
-        return phoneNumber;
-    }
-
-    public void setPhoneNumber(String phoneNumber) {
-        this.phoneNumber = phoneNumber;
-    }
-
-    public String getEmail() {
-        return email;
-    }
-
-    public void setEmail(String email) {
-        this.email = email;
-    }
-
-    @Override
-    public String toString() {
-        final StringBuffer sb = new StringBuffer("User{");
-        sb.append("firstName='").append(this.firstName).append('\'');
-        sb.append(", lastName='").append(lastName).append('\'');
-        sb.append(", address='").append(address).append('\'');
-        sb.append(", phoneNumber='").append(phoneNumber).append('\'');
-        sb.append(", email='").append(email).append('\'');
-        sb.append(", id=").append(id);
-        sb.append('}');
-        return sb.toString();
-    }
 
 }

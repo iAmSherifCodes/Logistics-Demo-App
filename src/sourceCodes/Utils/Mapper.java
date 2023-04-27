@@ -11,7 +11,6 @@ public class Mapper {
 
         User newUser = new User();
         newUser.setFirstName(request.getFirstName());
-
         newUser.setLastName(request.getLastName());
         newUser.setEmail(request.getEmail());
         newUser.setAddress(request.getAddress());
